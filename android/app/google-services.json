@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "670016714084",
+        "firebase_url": "https://veta-4d24e.firebaseio.com",
+        "project_id": "veta-4d24e",
+        "storage_bucket": "veta-4d24e.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:670016714084:android:1c6a876c9c69dd94",
+            "android_client_info": {
+                "package_name": "com.example.vetaapp"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "670016714084-gcolnk9bv2hhnnahg6l8o82ds3luf419.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyA3dCikCryARt3oyKkLpjT7l3ITN5HQZaI"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "670016714084-gcolnk9bv2hhnnahg6l8o82ds3luf419.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
